@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex017_Chech_number_of_day_of_week_and_to_relax_day/1.0.0": {
+        "runtime": {
+          "Ex017_Chech_number_of_day_of_week_and_to_relax_day.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex017_Chech_number_of_day_of_week_and_to_relax_day/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

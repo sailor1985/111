@@ -1,0 +1,15 @@
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\bin\Debug\net6.0\Example005 ConditionIfElse.exe
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\bin\Debug\net6.0\Example005 ConditionIfElse.deps.json
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\bin\Debug\net6.0\Example005 ConditionIfElse.runtimeconfig.json
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\bin\Debug\net6.0\Example005 ConditionIfElse.dll
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\bin\Debug\net6.0\Example005 ConditionIfElse.pdb
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.AssemblyInfo.cs
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.dll
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\refint\Example005 ConditionIfElse.dll
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.pdb
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\Example005 ConditionIfElse.genruntimeconfig.cache
+C:\Users\Клен-М\Work in Git\Examples\Example005 ConditionIfElse\obj\Debug\net6.0\ref\Example005 ConditionIfElse.dll

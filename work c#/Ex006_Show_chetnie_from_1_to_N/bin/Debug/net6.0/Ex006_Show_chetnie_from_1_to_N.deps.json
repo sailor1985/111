@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex006_Show_chetnie_from_1_to_N/1.0.0": {
+        "runtime": {
+          "Ex006_Show_chetnie_from_1_to_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex006_Show_chetnie_from_1_to_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

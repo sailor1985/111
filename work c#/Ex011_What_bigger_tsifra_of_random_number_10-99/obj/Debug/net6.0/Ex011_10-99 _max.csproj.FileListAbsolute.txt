@@ -1,0 +1,15 @@
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.csproj.AssemblyReference.cache
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.AssemblyInfoInputs.cache
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.AssemblyInfo.cs
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.csproj.CoreCompileInputs.cache
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\bin\Debug\net6.0\Ex011_10-99 _max.exe
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\bin\Debug\net6.0\Ex011_10-99 _max.deps.json
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\bin\Debug\net6.0\Ex011_10-99 _max.runtimeconfig.json
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\bin\Debug\net6.0\Ex011_10-99 _max.dll
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\bin\Debug\net6.0\Ex011_10-99 _max.pdb
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.dll
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\refint\Ex011_10-99 _max.dll
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.pdb
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\Ex011_10-99 _max.genruntimeconfig.cache
+C:\Users\Клен-М\Work in Git\work c#\Ex011_10-99 _max\obj\Debug\net6.0\ref\Ex011_10-99 _max.dll

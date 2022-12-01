@@ -1,4 +1,0 @@
-Моя первая программа
-Мой первый pull request
-Мой второй pull request
-Мой третий pull request

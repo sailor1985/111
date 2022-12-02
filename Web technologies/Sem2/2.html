@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./seminar_styles.css">
+    <script language="JavaScript">
+    
+    // const resDivision = 14 % 3;
+    // let resMultyply = null;
+    // var variableName;
+    // alert("Привет, дорогой товарищ, меня написали при помощи JS")
+    // alert(158+2)
+    // alert(`Результат: ${158+2}`);
+    // alert(`Имя: ${resMultyply}`);
+
+    function multyplyFun(firstNumber, secondNumber){
+        const resMultyply = firstNumber * secondNumber;
+        return resMultyply;
+    }
+
+    const myFun = function(a, b){
+        return a+b;
+    }
+
+    const arrowFunc = (firstNumber, secondNumber) =>{
+        const resMultyply = firstNumber / secondNumber;
+        return resMultyply;
+    }
+
+    function returnRandomName(nameToReturn){
+        return randomName;
+    }
+
+    // const randomName = "Isidora"
+    // const sevenPlysSeven = myFun(7,7)
+    // const multyplyTwoByFive = multyplyFun(2, 5)
+    // const multyplyfifteenByFive = arrowFunc (15, 5)
+
+    // alert(`Умножение при помощи функции = ${multyplyTwoByFive}`);
+    // alert(`Сложение при помощи функции = ${sevenPlysSeven}`);
+    // alert(`Деление при помощи функции = ${multyplyfifteenByFive}`);
+    // alert(`Имя: ${returnRandomName(randomName)}`);
+
+    const maksim = {
+        age: 26,
+        natianality: "Russian",
+        profession: "web-developer",
+        livedInMoscow: 5,
+        livedInVolgograd: 15,
+        livedInNizhni:3,
+    }
+
+    // alert(`Возраст Макасима = ${maksim.livedInMoscow +maksim.livedInNizhni + maksim.livedInVolgograd}`);
+
+    // const test = prompt(`Каков ваш возраст?`, maksim.age)
+    // alert(`Ваш возраст = ${test}`);
+
+    let username = "Кузя"
+
+    function showMessage() {
+        let message = "Привет, " + username
+        alert(message)
+    }
+
+    // showMessage()
+
+    function name2() {
+        const nameRes = prompt(`Как вас зовут?`)
+        if (nameRes) {
+            return (`Ваше имя = ${nameRes}`)
+        }
+        else {
+            return `Введите правильно ваше имя`
+        }
+    }
+
+    alert(name2())
+
+
+
+    </script>
+    
+    
+    
+    
+    
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
